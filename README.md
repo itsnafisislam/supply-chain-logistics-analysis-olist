@@ -45,7 +45,7 @@ Using SQL for data extraction and Power BI for visualization, I identified a mas
 * **Code Example:** [Link to SQL Queries](./02_SQL_Queries)
 
 ### Visualization (Power BI)
-<img width="1267" height="650" alt="Average of Lead time days screenshot" src="https://github.com/user-attachments/assets/0ebe233b-4d74-4a68-b177-505f2a650897" />
+<img width="549" height="547" alt="Average of Lead time days screenshot" src="https://github.com/user-attachments/assets/e438fda6-daba-408f-bc39-0f1e0b6404be" />
 
 * Built an interactive **Heat Map** of Brazil to visualize lead time disparity.
 * Created a **Pareto Chart** to identify the 20% of sellers causing 80% of the delays.
@@ -62,5 +62,6 @@ Using SQL for data extraction and Power BI for visualization, I identified a mas
 ├── 03_Visualizations/     # Power BI Dashboard (.pbix) & Screenshots
 
 └── README.md              # Project Documentation
+
 
 
