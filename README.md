@@ -1,5 +1,3 @@
-<img width="1267" height="650" alt="Average of Lead time days screenshot" src="https://github.com/user-attachments/assets/5d17400a-2b53-4a9a-9c1d-971d0c510245" /># 📦 Optimizing Brazilian Logistics: Supply Chain Analytics Project
-
 ## 📌 Project Overview
 **Role:** Supply Chain Analyst  
 **Tools:** SQL (PostgreSQL), Power BI, Python  
@@ -63,3 +61,4 @@ Using SQL for data extraction and Power BI for visualization, I identified a mas
 ├── 03_Visualizations/     # Power BI Dashboard (.pbix) & Screenshots
 
 └── README.md              # Project Documentation
+
