@@ -1,4 +1,4 @@
-# 📦 Optimizing Brazilian Logistics: Supply Chain Analytics Project
+<img width="1267" height="650" alt="Average of Lead time days screenshot" src="https://github.com/user-attachments/assets/5d17400a-2b53-4a9a-9c1d-971d0c510245" /># 📦 Optimizing Brazilian Logistics: Supply Chain Analytics Project
 
 ## 📌 Project Overview
 **Role:** Supply Chain Analyst  
@@ -47,7 +47,7 @@ Using SQL for data extraction and Power BI for visualization, I identified a mas
 * **Code Example:** [Link to SQL Queries](./02_SQL_Queries)
 
 ### Visualization (Power BI)
-*(Placeholder for your Dashboard Screenshot)*
+<img width="1267" height="650" alt="Average of Lead time days screenshot" src="https://github.com/user-attachments/assets/0ebe233b-4d74-4a68-b177-505f2a650897" />
 * Built an interactive **Heat Map** of Brazil to visualize lead time disparity.
 * Created a **Pareto Chart** to identify the 20% of sellers causing 80% of the delays.
 
@@ -61,4 +61,5 @@ Using SQL for data extraction and Power BI for visualization, I identified a mas
 │   ├── 02_vendor_handling_time.sql
 │   └── 03_logistics_vs_satisfaction.sql
 ├── 03_Visualizations/     # Power BI Dashboard (.pbix) & Screenshots
+
 └── README.md              # Project Documentation
