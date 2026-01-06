@@ -3,7 +3,7 @@
 **Role:** Supply Chain Analyst  
 **Tools:** SQL (PostgreSQL), Power BI, DAX  
 **Domain:** E-Commerce Logistics & Operations  
-
+Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
 ---
 
 ## 1. Executive Summary
@@ -57,14 +57,15 @@
 
 ## 📂 Project Structure
 ```text
-├── 01_Dataset/            # Raw CSV files (Olist Data)
+├── 01_Dataset/            # Not uploaded due to Github limitations. Kindly visit the link at the top.
 ├── 02_SQL_Queries/        # SQL scripts for analysis
 │   ├── 01_logistics_by_state.sql
 │   ├── 02_vendor_handling_time.sql
 │   └── 03_logistics_vs_satisfaction.sql
-├── 03_Visualizations/     # Power BI Dashboard (.pbix) & Screenshots
+├── 03_Visualizations/     # Power BI Dashboard (.pbit) & Screenshot. (.pbix) is not uploaded due to Github limitations.
 
 └── README.md              # Project Documentation
+
 
 
 
