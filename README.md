@@ -9,7 +9,7 @@ Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resour
 ## 1. Executive Summary
 **The Business Problem:** Olist, a Brazilian e-commerce giant, faces significant customer satisfaction challenges due to unpredictable delivery times across a continent-sized geography. The company needed to identify specific bottlenecks in its logistics network to improve the "Order-to-Delivery" cycle.
 
-**The Solution:** This project analyzes **100k+ real order records** to map the logistics network's performance. By integrating SQL for data extraction and Power BI for advanced visualization, I diagnosed the root causes of delays—identifying a massive regional disparity and pinpointing specific underperforming sellers.
+**The Solution:** This project analyzes **100k+ real order records** to map the logistics network's performance. By integrating SQL for data extraction and Power BI for advanced visualization, I diagnosed the root causes of delays, identifying a massive regional disparity and pinpointing specific underperforming sellers.
 
 ---
 
@@ -65,6 +65,7 @@ Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resour
 ├── 03_Visualizations/     # Power BI Dashboard (.pbit) & Screenshot. (.pbix) is not uploaded due to Github limitations.
 
 └── README.md              # Project Documentation
+
 
 
 
