@@ -14,7 +14,7 @@ Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resour
 ---
 
 ## 2. The Dashboard
-<img width="1406" height="791" alt="Final_Dashboard" src="https://github.com/user-attachments/assets/7b004947-088c-484c-8772-9f5e94fe086d" />
+<img width="1444" height="809" alt="image" src="https://github.com/user-attachments/assets/52526f5a-6e9c-493f-a5d9-8bbe539c8943" />
 
 ---
 
@@ -65,6 +65,7 @@ Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resour
 ├── 03_Visualizations/     # Power BI Dashboard (.pbit) & Screenshot. (.pbix) is not uploaded due to Github limitations.
 
 └── README.md              # Project Documentation
+
 
 
 
